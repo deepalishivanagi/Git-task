@@ -14,7 +14,7 @@ export default function Content(){
     return(
     <Grid container className='main-content'>
        <Grid  item lg={3} md={3} sm={3} xs={3}>
-          Hello deepali
+          Hello deepali,Helllow Janaki
        </Grid>
         <Grid  item lg={6} md={6} sm={6} xs={6}>
             <Typography id='heading'>CREATING A SAFER WORLD</Typography>
